@@ -1,0 +1,10 @@
+fvcore 
+rich
+torch
+kagglehub
+pandas
+torchvision
+pillow
+tqdm
+plotly
+pyyaml
