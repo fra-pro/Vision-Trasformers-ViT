@@ -2,7 +2,7 @@
 
 # 🔬 Vision Transformer (ViT) — From Scratch
 
-**A clean, educational PyTorch implementation of the Vision Transformer**
+**A PyTorch implementation of the Vision Transformer**
 **applied to Animal Faces classification (Cat · Dog · Wild)**
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
